@@ -70,7 +70,7 @@
 
 | 🚀 Project | 🔍 Description | 🛠️ Tools |
 |-----------|----------------|----------|
-| **Face Mask Detector** | Detects masks in real-time using webcam | OpenCV, CNN, Python |
+| **Face Mask Detector** | Detects masks in real-time using webcam | OpenCV, CNN, Python | panda |
 | **Stock Prediction** | LSTM-based stock price prediction model | Keras, Pandas |
 | **AI Chatbot API** | AI-powered RESTful chatbot API | Flask, NLP |
 | **Portfolio Website** | Personal website with project gallery | HTML, CSS, JS |
