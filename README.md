@@ -1,5 +1,5 @@
 <h1>Hi there! 👋 I'm <span style="color:#f00;">Abdullah AL Kawser</span></h1>
-<h3 >🚀 Software Engineer | 🤖 Machine Learning | Artificial Intelligence | AI Agent | Deep Learning | Computer Vision | Tech Enthusiast  BD></h3>
+<h3 >🚀 Software Engineer | 🤖 Machine Learning | Artificial Intelligence | AI Agent | Deep Learning |Tech Enthusiast  BD USA  ></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&width=435&lines=Building+AI-powered+solutions+💡;Loving+Python%2C+React%2C+and+Cloud+🚀;Machine+Learning+is+the+future+🤖" alt="Typing SVG" />
