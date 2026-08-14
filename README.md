@@ -16,7 +16,7 @@
 
 ### 🧠 Machine Learning & AI
 
-🚀 I'm building intelligent systems that learn from data and solve real-world problems. My ML/AI journey includes:
+🚀 I'm building intelligent systems that learn from data and solve real-world problems.  ML/AI journey includes:
 
 - ✅ Supervised & Unsupervised Learning
 - ✅ Deep Learning with TensorFlow & PyTorch
